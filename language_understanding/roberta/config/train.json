@@ -1,0 +1,75 @@
+
+[
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 804
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 36816
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 345
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 9822
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 34113
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 1e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 234
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 6315
+    },
+    {
+        "seed": 42,
+        "batch_size": 32,
+        "lr": 2e-5,
+        "n_epochs": 3,
+        "warmup": 0.1,
+        "save_steps": 100,
+        "total_steps": 540
+    }
+]
