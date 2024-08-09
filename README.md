@@ -5,6 +5,7 @@ This repo contains the code of [MoReDrop: Dropout without Dropping]()
 
 
 ```python
+import torch
 import torch.nn.functional as F
 
 # define your task model, which outputs the classifier logits
